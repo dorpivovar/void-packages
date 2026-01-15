@@ -1,0 +1,19 @@
+pkgname=matugen-git
+version=3.0.0
+revision=1
+build_style=cargo
+hostmakedeps="cargo"
+short_desc="Material you color generation tool with templates"
+maintainer="Ly-sec <itslysec@gmail.com>"
+license="GPL-2.0-only"
+homepage="https://github.com/InioX/matugen"
+distfiles="https://github.com/InioX/matugen/archive/refs/heads/main.tar.gz"
+checksum=e0a90e10144bf661964f5a6070a98f1ef5a6df4fc5467cd07a935e34eaed0951
+wrksrc="matugen-main"
+
+provides="matugen-${version}_${revision}"
+conflicts="matugen>=0"
+
+post_install() {
+	vlicense LICENSE
+}
