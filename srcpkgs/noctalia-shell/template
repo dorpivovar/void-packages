@@ -1,5 +1,5 @@
 pkgname=noctalia-shell
-version=4.3.0
+version=4.4.3
 revision=1
 hostmakedepends=""
 maintainer="Ly-sec <itslysec@gmail.com>"
@@ -9,7 +9,7 @@ homepage="https://github.com/noctalia-dev/noctalia-shell"
 license="MIT"
 
 distfiles="https://github.com/noctalia-dev/noctalia-shell/archive/refs/tags/v${version}.tar.gz"
-checksum=c301b63a8d234b432460adb1257fe667ae0f69c44c9ad9ad8e06bc068d39efcd
+checksum=48b829c8dd1a1a40c67ad8233dbcb258d3ccdad0a559581e11e0d4d99119e698
 
 build() {
     return 0
