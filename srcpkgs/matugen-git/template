@@ -1,5 +1,5 @@
 pkgname=matugen-git
-version=3.0.0
+version=4.0.0
 revision=1
 build_style=cargo
 hostmakedeps="cargo"
@@ -8,7 +8,7 @@ maintainer="Ly-sec <itslysec@gmail.com>"
 license="GPL-2.0-only"
 homepage="https://github.com/InioX/matugen"
 distfiles="https://github.com/InioX/matugen/archive/refs/heads/main.tar.gz"
-checksum=e0a90e10144bf661964f5a6070a98f1ef5a6df4fc5467cd07a935e34eaed0951
+checksum=3c244e39fbdda6e4365b2ab2b4ce03478c37efc3755b0c65aa4686a130886e86
 wrksrc="matugen-main"
 
 provides="matugen-${version}_${revision}"
