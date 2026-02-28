@@ -1,6 +1,6 @@
 # Template file for 'linux6.19'
 pkgname=linux6.19
-version=6.19.2
+version=6.19.4
 revision=1
 short_desc="Linux kernel and modules (${version%.*} series)"
 maintainer="Duncaen <duncaen@voidlinux.org>"
@@ -18,7 +18,7 @@ rc*) distfiles="https://git.kernel.org/torvalds/t/linux-${version%.*}-${version#
 esac
 
 checksum="303079a8250b8f381f82b03f90463d12ac98d4f6b149b761ea75af1323521357
- ee81001444af138067da8a368ebd7da5a7f2cc258d5e45db7ac9e212c471620c"
+ df2f1198da08845eadd497ab03d6ec18063724decf715f53e49e94fb303c93ab"
 
 python_version=3
 

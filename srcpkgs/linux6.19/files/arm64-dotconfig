@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 6.19.2 Kernel Configuration
+# Linux/arm64 6.19.4 Kernel Configuration
 #
 CONFIG_CC_VERSION_TEXT="aarch64-linux-musl-gcc (GCC) 14.2.1 20250405"
 CONFIG_CC_IS_GCC=y
@@ -6485,6 +6485,7 @@ CONFIG_MFD_CS47L35=y
 CONFIG_MFD_CS47L85=y
 CONFIG_MFD_CS47L90=y
 CONFIG_MFD_CS47L92=y
+# CONFIG_MFD_TN48M_CPLD is not set
 # CONFIG_PMIC_DA903X is not set
 # CONFIG_MFD_DA9052_SPI is not set
 # CONFIG_MFD_DA9052_I2C is not set

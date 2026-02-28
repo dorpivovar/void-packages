@@ -366,17 +366,17 @@ libtcl8.6.so tcl-8.6.0_1
 libtk8.6.so tk-8.6.1_3
 libsqlite3.so.0 sqlite-3.38.0_1
 libIDL-2.so.0 libIDL-0.8.13_1
-libnspr4.so nspr-4.37_1
-libplc4.so nspr-4.37_1
-libplds4.so nspr-4.37_1
-libsoftokn3.so nss-3.116_1
-libssl3.so nss-3.116_1
-libnssutil3.so nss-3.116_1
-libsmime3.so nss-3.116_1
-libfreebl3.so nss-3.116_1
-libnssdbm3.so nss-3.116_1
-libnssckbi.so nss-3.116_1
-libnss3.so nss-3.116_1
+libnspr4.so nspr-4.38.2_1
+libplc4.so nspr-4.38.2_1
+libplds4.so nspr-4.38.2_1
+libsoftokn3.so nss-3.121_1
+libssl3.so nss-3.121_1
+libnssutil3.so nss-3.121_1
+libsmime3.so nss-3.121_1
+libfreebl3.so nss-3.121_1
+libnssdbm3.so nss-3.121_1
+libnssckbi.so nss-3.121_1
+libnss3.so nss-3.121_1
 libcurl.so.4 libcurl-7.75.0_2
 libdaemon.so.0 libdaemon-0.14_1
 libavahi-common.so.3 avahi-libs-0.6.25_1
@@ -1983,6 +1983,7 @@ libKF6Syndication.so.6 kf6-syndication-6.19.0_1
 libKF6SyntaxHighlighting.so.6 kf6-syntax-highlighting-6.19.0_1
 libKF6ThreadWeaver.so.6 kf6-threadweaver-6.19.0_1
 # KDE Plasma
+libKQuickImageEditor.so.1 kquickimageeditor-0.6.0_1
 libKNightTime.so.0 knighttime-6.5.1_1
 libklookandfeel.so.6 plasma-workspace-6.5.1_1
 libtaskmanager.so.6 plasma-workspace-6.5.1_1
@@ -2003,8 +2004,8 @@ libKPipeWireRecord.so.6 kpipewire-6.5.1_1
 libKPipeWireDmaBuf.so.6 kpipewire-6.5.1_1
 libPlasmaActivities.so.7 plasma-activities-6.5.1_1
 libPlasmaActivitiesStats.so.1 plasma-activities-stats-6.5.1_1
-libPlasma.so.6 libplasma-6.5.1_1
-libPlasmaQuick.so.6 libplasma-6.5.1_1
+libPlasma.so.7 libplasma-6.6.1_1
+libPlasmaQuick.so.7 libplasma-6.6.1_1
 libPlasma5Support.so.6 plasma5support-6.5.1_1
 libkdecorations3.so.6 kf6-kdecoration-6.5.1_1
 libkdecorations3private.so.2 kf6-kdecoration-6.5.1_1
